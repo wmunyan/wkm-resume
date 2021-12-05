@@ -3,7 +3,7 @@
 ## University
 
 | Institution                      | Major/Course of Study            | Result      | Start     | End      |
-| -------------------------------- | -------------------------------- | ------------| --------- | -------- |
+| :------------------------------- | :------------------------------- | :-----------| :-------- | :------- |
 | Lewis University                 | Computer Science                 | In Progress | Aug. 2020 | Present  |
 | Rensselaer Polytechnic Institute | Computer and Systems Engineering | B.S.        | Aug. 1994 | May 1998 |
 
