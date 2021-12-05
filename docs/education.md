@@ -18,7 +18,7 @@
 ## High School
 
 | Institution                | Graduation |
-| -------------------------- | ---------- |
+| :------------------------- | :--------- |
 | Christian Brothers Academy | June 1994  |
 
 ### Activities
