@@ -6,6 +6,6 @@ Welcome to my resume's electronic home!  Within the linked pages you'll find inf
 
 - [Education](./education.md)
 - [CIS](./cis.md)
-- BearingPoint/CMA
-- CGI-AMS
+- [BearingPoint/CMA](./bearingpoint_cma.md)
+- [CGI-AMS](./cgi_ams.md)
 
