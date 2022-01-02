@@ -5,6 +5,7 @@ Welcome to my resume's electronic home!  Within the linked pages you'll find inf
 ## Contents
 
 - [Education](./education.md)
+- [Sophos](./sophos.md)
 - [CIS](./cis.md)
 - [BearingPoint/CMA](./bearingpoint_cma.md)
 - [CGI-AMS](./cgi_ams.md)
