@@ -11,6 +11,12 @@
 - Technical Product Executive
 - Software Architect
 
+## Roles
+
+- Individual Contributor
+- Engineering Team Lead
+- Software Architect
+
 ## General Description
 My experience at CIS has encompassed numerous facets of software development within the context of the industry-recognized security best practices contained in both CIS Benchmarks and the CIS Controls. I have grown from an individual developer focused on a single software product to software architect level, contributing to and integrating multiple software offerings. I have strived to focus on SecureSuite stakeholders, both internal and external; those organizations who have invested in the CIS non-profit mission. I have led small teams of developers, provided mentoring, career development, and training opportunities. I have acted as a product owner, guiding the vision of our software and helping to achieve that vision using agile software development methodologies. Because our teams have been small, it was necessary to assume multiple roles including member support, new member orientations, and security automation content development.
 
