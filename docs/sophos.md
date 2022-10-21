@@ -1,8 +1,8 @@
 # Sophos
 
-| Start Date | End Date  |
-| ---------- | --------- |
-| Oct. 2021  | Present   |
+| Start Date |  End Date  |
+| ---------- | ---------- |
+| Oct. 2021  | March 2022 |
 
 ## Titles Held
 
