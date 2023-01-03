@@ -20,4 +20,4 @@ Develop high-level design specifications with particular attention to system int
 - Homepage Redesign Backend Architecture and development lead
 - Secure RSS/Atom feeds project
 - Work with front-end engineers on API needs, data structure design, and contract testing
-- Subscriber synchronization project
+- Subscriber Synchronization project
