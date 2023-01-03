@@ -1,3 +1,3 @@
 # Bill's Resume
 
-This is the rez.
+This is the resume.
