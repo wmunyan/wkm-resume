@@ -13,4 +13,4 @@ Sophos Factory (formerly Refactr) is a cutting-edge DevSecOps automation platfor
 
 - JavaScript application maintenance and development in Node and Express environment, utilizing MongoDB database.
 - React front-end components within management app to add functionality for flexible deployments.
-- Updates to “kitchen sink” pipeline used to perform end-to-end platform testing for all module components, including basic Terraform code to stand up test environment
+- Updates to “kitchen sink” pipeline used to perform end-to-end platform testing for all module components.
