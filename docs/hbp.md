@@ -27,12 +27,11 @@ As a senior member of the Product Engineering Group, focused on architecture mod
 	- Development of BFF code, integrating multiple backend microservice APIs needed for mobile app
 - Created a proof-of-concept application securing access to HBR content feeds, such as RSS/Atom feeds of recently-published digital articles
 	- Included basic React-based frontend for administrative access
+- Implemented administrative software to assist synchronization of account information between external partners
 
 ## Technologies
 - Micronaut, Groovy, Java
 - Docker, Redis, AWS
 - Microservice design, documentation, and decision-making
 - C4, LucidCharts, Confluence, Jira
-- Homepage Redesign Backend Architecture and development lead
-- Secure RSS/Atom feeds project
-- Subscriber synchronization project
+
