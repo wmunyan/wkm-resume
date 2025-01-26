@@ -15,6 +15,7 @@
 
 - Individual Contributor
 - Engineering Team Lead
+- Product Owner
 - Software Architect
 
 ## General Description

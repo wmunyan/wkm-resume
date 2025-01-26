@@ -11,7 +11,7 @@
 ## General Description
 While at BearingPoint, and later at CMA (the project was acquired from BearingPoint by CMA), I performed as the technical lead for the New York Early Intervention System (NYEIS) project. NYEIS was effectively a case management system used by the NY Department of Health to aid families requiring assistance for developmentally challenged youth. The Early Intervention Program offers a variety of therapeutic and support services to eligible infants and toddlers with disabilities and their families.
 
-NYEIS was constructed using a customizable commercial off-the-shelf software tool called Curam.  Curam is a Java-based application that utilizes a Rational Rose UML model to generate database tables, classes, and interfaces.  Using the UML modeling and Curam's code generation, customizations can be made for specific software workflows.
+NYEIS was constructed using a customizable commercial off-the-shelf software tool: Curam.  Curam is a Java-based application that utilizes UML models to generate database tables, classes, and interfaces.  Using the UML modeling and Curam's code generation, customizations can be made for specific software workflows.
 
 During my time on the NYEIS project, I received training for and passed certification exams for both Curam Developer (technical) and Curam Professional (business/functional). As my breadth of knowledge increased my responsibilities grew to include:
 

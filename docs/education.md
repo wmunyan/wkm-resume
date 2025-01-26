@@ -13,7 +13,7 @@
 
 ## University
 
-| Institution                      | Major/Course of Study            | Result      |
-| :------------------------------- | :------------------------------- | :-----------|
-| Lewis University                 | Computer Science                 | In Progress |
-| Rensselaer Polytechnic Institute | Computer and Systems Engineering | B.S.        |
+| Institution                      | Major/Course of Study            | Result   |
+| :------------------------------- | :------------------------------- |:---------|
+| Lewis University                 | Computer Science                 | DNF/~50% |
+| Rensselaer Polytechnic Institute | Computer and Systems Engineering | B.S.     |

@@ -9,25 +9,54 @@
 - Software Architect
 
 ## General Description
-As a senior member of the Product Engineering Group, focused on architecture modernization within the HBR practice...
+As a senior member of the Product Engineering Group, focused on architecture modernization, microservices design and development, mentoring and evangelizing product needs within the HBR practice.
 
-- Design and implementation work, modernizing existing HBR "monolith" application to strategically-focused microservices architecture
+- Design and implementation work, modernizing existing HBR “monolith” application to strategically-focused microservices architecture
 - Communication and evangelization of new application development frameworks and architectural patterns
-	- Utilization of Micronaut framework for rapid, secure microservice development
-	- Backend-for-Frontend pattern for development of mobile-app specific backend services
-- Diagrammed architecture and system design using C4, documentation using Confluence
-- Led the backend implementation of HBR.org homepage redesign project
-	- Architecure decision records (ADRs)
-	- Confluence documentation
-	- Ongoing development and maintenance of code
-	- AWS Lambda@Edge functions used within CloudFront to enable A/B testing and traffic migration to new homepage experience
-- Led the backend implementation of Backend-for-Frontend (BFF) service for new HBR mobile app
-	- Introduction of architectural pattern including documentation, proposal for use, and approval
-	- Design diagrams, documentation and ADRs
-	- Development of BFF code, integrating multiple backend microservice APIs needed for mobile app
-- Created a proof-of-concept application securing access to HBR content feeds, such as RSS/Atom feeds of recently-published digital articles
-	- Included basic React-based frontend for administrative access
-- Implemented administrative software to assist synchronization of account information between external partners
+- Adoption of “API first” approach to microservice development
+- Diagrammed architecture and system design using C4 models including overall landscape diagram for software inventory
+- Design documentation and architecture decision records (ADRs) in Confluence
+- Utilization of Micronaut framework for rapid, secure microservice development
+- Backend-for-Frontend (BFF) pattern for development of mobile-app specific API and secure integration with backend services
+- Evangelization of BFF pattern within HBR practice
+- Creation of Micronaut-based microservice template to enhance developer experience
+- Introduced, presented, and curated technical knowledge sharing program in order to expose development teams to various projects across the organization, improve depth and breadth of experience, and increase visibility of development methodologies, techniques, and implementations.
+- Continued individual contribution to product backlogs, modernization efforts, and feature implementation.
+
+### Contributions
+Led the backend implementation of multiple HBR projects
+
+#### HBR.org Homepage Redesign
+- Implemented a backend-for-frontend (BFF) architectural pattern to enable:
+  - Secure content access, and
+  - Response aggregation supporting complex structure of HBR.org homepage frontend
+- AWS Lambda@Edge functions used within CloudFront to enable A/B testing and traffic migration to new homepage experience
+
+#### HBR Mobile Application
+- Implemented a backend-for-frontend (BFF) architectural pattern to accomplish:
+  - Secure integration with multiple backend microservices enabling:
+	- User management,
+	- Content access,
+	- Search capabilities,
+	- Subscription management,
+	- Device management
+  - Response aggregation and structure supporting data needs for frontend usage
+- Recipient of “One HBP” award for mobile app work
+
+#### Leader Profile
+TBD
+
+#### Secured Content Feeds
+- Atom feeds of recently-published HBR articles
+- Intent is to replace publicly-accessible feedburner access to HBR digital content
+
+#### Beta Program Management
+- Application, used to manage HBR applications that can be deployed to certain sets of users.  Features include:
+  - Dynamic restrictions to access applications in beta
+  - Administrator management to create new beta programs and configure access restrictions
+  - User management to allow HBR users to opt-into or out of participation in beta programs
+- Implemented administrative software to assist synchronization of HBR subscriber account information between external partners
+
 
 ## Technologies
 - Micronaut, Groovy, Java
