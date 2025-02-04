@@ -9,19 +9,9 @@
 - Software Architect
 
 ## General Description
-As a senior member of the Product Engineering Group, focused on architecture modernization, microservices design and development, mentoring and evangelizing product needs within the HBR practice.
+As a senior member of the Product Engineering group, I lead architecture modernization, microservice design, mentoring, and assisting product management determining engineering needs within the HBR practice.  I focus on a strategically significant "API first" approach, domain-driven design, and documenting architecture decision records.  During my tenure, I have contributed to the implementation of multiple HBR projects, including the HBR.org homepage redesign, a re-released HBR mobile application utilizing up-to-date architectural principles and practices and modern application frameworks.  A listing of my extensive project work with relevant technical details is provided below.
 
-- Design and implementation work, modernizing existing HBR “monolith” application to strategically-focused microservices architecture
-- Communication and evangelization of new application development frameworks and architectural patterns
-- Adoption of “API first” approach to microservice development
-- Diagrammed architecture and system design using C4 models including overall landscape diagram for software inventory
-- Design documentation and architecture decision records (ADRs) in Confluence
-- Utilization of Micronaut framework for rapid, secure microservice development
-- Backend-for-Frontend (BFF) pattern for development of mobile-app specific API and secure integration with backend services
-- Evangelization of BFF pattern within HBR practice
-- Creation of Micronaut-based microservice template to enhance developer experience
-- Introduced, presented, and curated technical knowledge sharing program in order to expose development teams to various projects across the organization, improve depth and breadth of experience, and increase visibility of development methodologies, techniques, and implementations.
-- Continued individual contribution to product backlogs, modernization efforts, and feature implementation.
+Additionally, my role affords the opportunity to "influence without authority", contributing to every organizational team assigned to the HBR group.  In this capacity, I help demonstrate the "why" surrounding the group's efforts, helping to translate product roadmaps to engineering teams, reviewing technical designs, and performing code reviews.  I have also introduced, presented, and curated a technical knowledge-sharing program to expose engineering and product teams to various projects across the organization, expand the breadth of experience, and increase visibility of methodologies, techniques, and implementations.
 
 ### Contributions
 Led the backend implementation of multiple HBR projects
