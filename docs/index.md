@@ -4,10 +4,10 @@ Welcome to my resume's electronic home!  Within the linked pages you'll find inf
 
 ## Contents
 
-- [Education](./education.md)
+- [Education & Professional Development](./education.md)
 - [Harvard Business Publishing](./hbp.md)
 - [Sophos](./sophos.md)
-- [CIS](./cis.md)
+- [Center for Internet Security](./cis.md)
 - [BearingPoint/CMA](./bearingpoint_cma.md)
 - [CGI-AMS](./cgi_ams.md)
 
